@@ -1,3 +1,5 @@
 /home/carlos/IdeaProjects/spring-rest-demo/src/main/java/com/springdemo/rest/DemoRestController.java
+/home/carlos/IdeaProjects/spring-rest-demo/src/main/java/com/springdemo/rest/StudentRestController.java
 /home/carlos/IdeaProjects/spring-rest-demo/src/main/java/com/springdemo/config/DemoAppConfig.java
+/home/carlos/IdeaProjects/spring-rest-demo/src/main/java/com/springdemo/entity/Student.java
 /home/carlos/IdeaProjects/spring-rest-demo/src/main/java/com/springdemo/config/MySpringMvcDispatcherServletInitializer.java

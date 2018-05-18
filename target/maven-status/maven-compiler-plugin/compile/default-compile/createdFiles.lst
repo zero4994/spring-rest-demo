@@ -1,3 +1,5 @@
-com/springdemo/config/DemoAppConfig.class
 com/springdemo/rest/DemoRestController.class
+com/springdemo/entity/Student.class
+com/springdemo/config/DemoAppConfig.class
 com/springdemo/config/MySpringMvcDispatcherServletInitializer.class
+com/springdemo/rest/StudentRestController.class

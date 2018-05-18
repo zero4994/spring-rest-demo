@@ -19,7 +19,7 @@ public class StudentRestController {
         theStudents.add(new Student("Poornima", "Patel"));
         theStudents.add(new Student("Mario", "Rossi"));
         theStudents.add(new Student("Mary", "Smith"));
-        
+
         return theStudents;
     }
 }
