@@ -1,0 +1,3 @@
+com/springdemo/config/DemoAppConfig.class
+com/springdemo/rest/DemoRestController.class
+com/springdemo/config/MySpringMvcDispatcherServletInitializer.class

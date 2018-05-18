@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f6fcad5-f232-4c8b-a32d-141d6a371a83" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springdemo/config/DemoAppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springdemo/config/MySpringMvcDispatcherServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springdemo/rest/DemoRestController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +35,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MySpringMvcDispatcherServletInitializer.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MySpringMvcDispatcherServletInitializer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/springdemo/config/MySpringMvcDispatcherServletInitializer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -48,6 +47,20 @@
                 <element signature="e#450#451#0" expanded="true" />
                 <element signature="e#511#512#0" expanded="true" />
                 <element signature="e#547#548#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DemoRestController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springdemo/rest/DemoRestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,6 +84,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/springdemo/config/DemoAppConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springdemo/config/MySpringMvcDispatcherServletInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springdemo/rest/DemoRestController.java" />
       </list>
     </option>
   </component>
@@ -135,7 +149,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="springdemo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,12 +230,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526600133830</updated>
-      <workItem from="1526600136192" duration="816000" />
+      <workItem from="1526600136192" duration="1081000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="816000" />
+    <option name="totallyTimeSpent" value="1081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-1" width="1368" height="749" extended-state="6" />
@@ -301,6 +315,18 @@
             <element signature="e#450#451#0" expanded="true" />
             <element signature="e#511#512#0" expanded="true" />
             <element signature="e#547#548#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springdemo/rest/DemoRestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
           </folding>
         </state>
       </provider>
